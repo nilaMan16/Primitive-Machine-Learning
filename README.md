@@ -1,2 +1,1 @@
-# Used-Car-Price-Prediction
-This is one of my first machine learning project. The modules implemented are- pandas, seaborn, sklearn and matplotlib. The model utilized here are Linear Regression and Lasso Regression. The performances of Linear Regression and Lasso Regression are being compared here. Thre training data and testing data has been splitted in a 4:1 ratio in case of Linear Regression. 
+Adoroni! This is the reposoitory of some of my first machine learning projects. I am still in the learning phase of the basics of Machine Learning and it's implementations. The various models used in my projects, as of now include Linear Regression, Logistic Regression, SVM, Lasso Regression, Random Forest Classifier, K-Means Clustering etc. 
